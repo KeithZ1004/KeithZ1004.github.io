@@ -7,7 +7,7 @@ hugoblox:
     description: Hi there! I'm Shuhao Zhang(Keith) from ShanghaiTech University. My research interests include Human-Computer Interaction and XR.
     organization: ShanghaiTech University
   theme:
-    mode: dark
+    mode: light
     pack: default
     colors:
       primary: ""
