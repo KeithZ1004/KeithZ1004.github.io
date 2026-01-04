@@ -1,116 +1,79 @@
-schema: hugoblox/author/v1
-slug: me
+schema: "hugoblox/author/v1"
+slug: "me"
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  display: "Shuhao Zhang"
+  given: "Shuhao"
+  family: "Zhang"
+  alternate: "Keith"
+  pronunciation: ""
+  pronouns: "he/him"
 postnominals:
-  - PhD
-  - MIEEE
+  - "PhD"
+  - "MIEEE"
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
-bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
-
+  icon: "👨‍💻"
+role: "Master Student"
+bio: "I am a master student at ShanghaiTech University, advised by Prof. Quan Li. My research interests include human-computer interaction and XR."
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
-
+  - name: "Viseer LAB"
+    url: "https://viseerlab.cn/"
 links:
-  - icon: at-symbol
-    url: mailto:alex.johnson@example.com
-    label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
-  - icon: brands/github
-    url: https://github.com/example
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
-
+  - icon: "at-symbol"
+    url: "mailto:zhangshh12024@shanghaitech.edu.cn"
+    label: "E-mail Me"
+  - icon: "brands/github"
+    url: "https://github.com/KeithZ1004"
+  - icon: "academicons/google-scholar"
+    url: "https://scholar.google.com/citations?user=z5ba6tsAAAAJ"
+  - icon: "academicons/orcid"
+    url: "https://orcid.org/0009-0008-1933-1869"
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
-
+  - "Human-Computer Interaction"
+  - "XR"
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
-
+  - degree: "B.S. in Computer Science"
+    institution: "ShanghaiTech University"
+    start: "2020-09-01"
+    end: "2024-06-30"
+    summary: ""
+  - degree: "M.Eng. in Computer Science"
+    institution: "ShanghaiTech University"
+    start: "2024-09-01"
+    end: "2027-06-30"
+    summary: ""
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
-    summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
-
+  - role: "Software Development Intern"
+    org: "Epitome"
+    start: "2024-12-08"
+    end: "2025-12-08"
+    summary: "During my one-year internship as a Software Development Intern in Epitome, I specialized in engine-based development using Unity and UE5. 
+      I was responsible for architecting core business logic and building interactive systems. 
+      This experience allowed me to bridge the gap between academic theory and industry-level software engineering, honing my skills in team collaboration and complex problem-solving."
 skills:
-  - name: Technical Skills
+  - name: "Technical Skills"
     items:
-      - label: Python
+      - label: "Python"
         level: 5
-      - label: Machine Learning
+      - label: "Machine Learning"
         level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
+  - name: "Research & Communication"
     items:
-      - label: Academic Writing
+      - label: "Academic Writing"
         level: 5
-      - label: Conference Presentations
+      - label: "Conference Presentations"
         level: 4
-      - label: Grant Proposals
+      - label: "Grant Proposals"
         level: 4
-
 languages:
-  - name: English
+  - name: "Chinese"
     level: 5
-    label: Native
-  - name: Spanish
+    label: "Native"
+  - name: "English"
     level: 4
-    label: Fluent
-
+    label: "Fluent"
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+weight: null
+ids:
+  orcid: "0009-0008-1933-1869"
+  google_scholar: "z5ba6tsAAAAJ"
